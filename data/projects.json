@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Cafeteria Management System",
+    "description": "description",
+    "thumbnail": "/chef.jpg",
+    "link": "https://github.com/bhavankumar2911/cafeteria-management-system.git"
+  },
+  {
+    "id": "2",
+    "title": "Code Snippet Manager",
+    "description": "description",
+    "thumbnail": "/coding.jpg",
+    "link": "https://github.com/bhavankumar2911/snippetlly"
+  }
+]
