@@ -8,7 +8,7 @@ const Skills = () => {
       <h2 className="section-title">my skills</h2>
       <ul className="mt-5">
         {skills.map((skill) => (
-          <Skill skill={skill} />
+          <Skill skill={skill} key={skill.id} />
         ))}
       </ul>
     </section>

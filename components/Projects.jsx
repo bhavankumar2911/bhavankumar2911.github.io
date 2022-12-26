@@ -8,7 +8,7 @@ const Projects = () => {
       <h2 className="section-title">Projects</h2>
       <ul className="sm:flex sm:justify-center mt-5 sm:mt-5">
         {projects.map((project) => (
-          <ProjectCard project={project} />
+          <ProjectCard project={project} key={project.id} />
         ))}
       </ul>
     </section>

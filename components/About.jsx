@@ -3,7 +3,7 @@ import Name from "./Name";
 
 const About = ({ align }) => {
   return (
-    <div className={`section-card md:m-0 text-${align}`}>
+    <div className={`section-card md:m-0`}>
       <div className="hidden md:block">
         <Name />
       </div>

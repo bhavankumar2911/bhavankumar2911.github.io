@@ -16,6 +16,7 @@ const ProjectCard = ({ project }) => {
             <Image
               className="object-cover transition hover:scale-110"
               src={project.thumbnail}
+              alt={project.title}
               fill
             />
           </div>
