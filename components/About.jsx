@@ -11,7 +11,7 @@ const About = ({ align }) => {
         <h2 className="section-title">About</h2>
       </div>
       <p className="section-text md:mb-5">
-        I'm a self-taught full-stack web developer specializing in the MERN
+        I&apos;m a self-taught full-stack web developer specializing in the MERN
         stack. I write optimized code that makes the web app faster and more
         scalable.
       </p>
